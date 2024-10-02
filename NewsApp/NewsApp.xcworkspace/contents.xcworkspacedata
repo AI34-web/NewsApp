@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:Resources"
+      name = "Resources">
+      <FileRef
+         location = "group:Constants.swift">
+      </FileRef>
+   </Group>
    <FileRef
       location = "group:NewsApp.xcodeproj">
    </FileRef>
